@@ -2,6 +2,8 @@
 
 My name is Hleb Pihuleuski. Im currently work as frontend developer at KandaSoftware. I love travel, sport and reading. Welcome to my little programming world!
 
+- 🌱 I’m currently learning TS, C#
+
 <!--
 **CasperCarver/CasperCarver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
